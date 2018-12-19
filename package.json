@@ -60,7 +60,7 @@
     "@dot-event/fs": "1.11.24",
     "@dot-event/log": "0.13.5",
     "@dot-event/spawn": "2.6.26",
-    "@dot-event/task": "1.11.22"
+    "@dot-event/task": "1.11.23"
   },
   "devDependencies": {
     "@babel/cli": "7.2.0",
