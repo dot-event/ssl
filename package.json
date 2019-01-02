@@ -1,6 +1,6 @@
 {
   "name": "@dot-event/ssl",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "dot-event operation",
   "keywords": [
     "dot-event",
@@ -55,12 +55,12 @@
   },
   "dependencies": {
     "@babel/runtime": "7.2.0",
-    "dot-event": "2.12.9",
-    "@dot-event/argv": "2.10.9",
-    "@dot-event/fs": "1.11.28",
-    "@dot-event/log": "0.13.6",
-    "@dot-event/spawn": "2.6.30",
-    "@dot-event/task": "1.11.26"
+    "dot-event": "2.12.10",
+    "@dot-event/argv": "2.10.10",
+    "@dot-event/fs": "1.11.30",
+    "@dot-event/log": "0.13.7",
+    "@dot-event/spawn": "2.6.32",
+    "@dot-event/task": "1.11.28"
   },
   "devDependencies": {
     "@babel/cli": "7.2.0",
