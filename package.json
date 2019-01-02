@@ -57,9 +57,9 @@
     "@babel/runtime": "7.2.0",
     "dot-event": "2.12.8",
     "@dot-event/argv": "2.10.8",
-    "@dot-event/fs": "1.11.26",
+    "@dot-event/fs": "1.11.27",
     "@dot-event/log": "0.13.5",
-    "@dot-event/spawn": "2.6.28",
+    "@dot-event/spawn": "2.6.29",
     "@dot-event/task": "1.11.25"
   },
   "devDependencies": {
